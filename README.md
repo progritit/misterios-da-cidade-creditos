@@ -2,7 +2,7 @@
 
 Repositório público separado, destinado somente às referências de mídia dos documentários do canal.
 
-**Status:** páginas preparadas para revisão. A divulgação como fonte oficial nas redes sociais permanece pendente da confirmação dos direitos sobre as adaptações CC BY-SA e da procedência das músicas e assinaturas sonoras.
+**Status:** registro público de créditos por episódio. Cada obra mantém sua licença própria, e a disponibilidade desta página não implica licença global sobre os vídeos ou seus componentes.
 
 ## Estrutura
 
@@ -10,9 +10,9 @@ Repositório público separado, destinado somente às referências de mídia dos
 - `docs/ep004.html`: créditos do EP004 Paranapiacaba.
 - `docs/style.css`: estilo responsivo.
 
-## Publicação via GitHub Pages (somente após aprovação)
+## GitHub Pages
 
-No GitHub: **Settings → Pages → Build and deployment → Deploy from a branch → main → /docs → Save**. Confirme a URL real exibida pelo GitHub antes de inseri-la em legendas de redes sociais. Não presuma que configurar Pages substitua a revisão de direitos.
+A fonte do site é a pasta `/docs` na branch `main`. A página de cada episódio tem URL própria. Confira o endereço publicado em **Settings → Pages** antes de usá-lo nas descrições. A publicação de créditos não substitui o respeito às licenças das fontes.
 
 ## Licenças
 
